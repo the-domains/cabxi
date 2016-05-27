@@ -4,8 +4,15 @@
         <description><![CDATA[cabxi ]]></description>
         <link>https://thegrid.ai/cabxi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 21:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 22:17:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cabxi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CabXi Limo & Taxi]]></title>
+            <description><![CDATA[<article><h1>CabXi Limo & Taxi</h1><p>Limo & Taxi company providing customers with safe and pleasant rides to and from airports, sporting events, concerts and local transportation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ecabfc8101db74e2d05716eae902617ae2321d1.png"></article>]]></description>
+            <link>https://squareup.com/store/CabXiLimo</link>
+            <guid isPermaLink="false">adfde208-6c12-496c-b982-a233419dbb59</guid>
+            <pubDate>Fri, 27 May 2016 22:17:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16a6db1d-3b68-4d7a-a9aa-c411e5b17025.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>https://www.youtube.com/watch?v=A5Dj62nZfnU</link>
             <guid isPermaLink="false">37cb3df8-6f8a-4a36-bb99-967186fe113c</guid>
             <pubDate>Fri, 27 May 2016 20:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moleskine's Comprehensive Smart Writing Set]]></title>
-            <description><![CDATA[<article><h1>Moleskine's Comprehensive Smart Writing Set</h1><p>At a conference on productivity-which touched on everything from the importance of tech-free alone time to the educational and emotional benefits of writing by hand (as outlined in a series of studies on the subject)- Moleskine unveiled their latest analog-to-digital wonder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88246302c4146bab7671eb9fd40a7ff184af1b48.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/tech/moleskine-smart-writing-set</link>
-            <guid isPermaLink="false">17b914e7-33d9-4c44-8122-94f69aad2d27</guid>
-            <pubDate>Fri, 27 May 2016 19:34:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
