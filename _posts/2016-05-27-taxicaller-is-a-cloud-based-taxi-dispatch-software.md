@@ -1,11 +1,7 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.taxicaller.com'
-  name: Taxicaller
-  favicon: 'http://www.taxicaller.com/favicon.ico'
-  domain: www.taxicaller.com
+datePublished: '2016-05-27T23:28:59.338Z'
+sourcePath: _posts/2016-05-27-taxicaller-is-a-cloud-based-taxi-dispatch-software.md
+isBasedOnUrl: 'http://www.taxicaller.com/booking.php'
 keywords:
   - taxicaller
   - dispatch
@@ -17,15 +13,19 @@ keywords:
   - book
   - linkoping
   - teknikringen
-description: 'dispatch system, dispatch software, cab booking software, taxi dispatch software, taxi management system, fleet management system, despatch system, fast, secure & reliable'
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://www.taxicaller.com/booking.php'
+related: []
+author: []
+dateModified: '2016-05-27T23:22:51.567Z'
 title: TaxiCaller is a cloud based taxi dispatch software.
-datePublished: '2016-05-27T20:30:31.399Z'
-dateModified: '2016-05-27T19:38:14.260Z'
+app_links: []
+publisher:
+  url: 'http://www.taxicaller.com'
+  name: Taxicaller
+  favicon: 'http://www.taxicaller.com/favicon.ico'
+  domain: www.taxicaller.com
+description: 'All our taxis and smaller size limos use same system for dispatching, in app hail or online reservations. Visit Taxicaller website to make online reservations or to download phone app. Currently CabXi Limo & Taxi is the only company out of 4 in Naperville/Bolingbrook area that accepting in app payments in taxicaller passenger app.'
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-05-27-taxicaller-is-a-cloud-based-taxi-dispatch-software.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>TaxiCaller is a cloud based taxi dispatch software.</h1><p>dispatch system, dispatch software, cab booking software, taxi dispatch software, taxi management system, fleet management system, despatch system, fast, secure &amp; reliable</p><img src="http://www.taxicaller.com/pub/img/playstore-badge.png" /></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/276b41ae-7d5a-4d83-9dea-eebe328b7f48.png" /><h1>TaxiCaller is a cloud based taxi dispatch software.</h1><p>All our taxis and smaller size limos use same system for dispatching, in app hail or online reservations. Visit Taxicaller website to make online reservations or to download phone app. Currently CabXi Limo &amp; Taxi is the only company out of 4 in Naperville/Bolingbrook area that accepting in app payments in taxicaller passenger app.</p></article>
