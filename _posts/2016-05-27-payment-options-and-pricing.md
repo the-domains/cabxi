@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-05-27T22:32:31.405Z'
+datePublished: '2016-05-27T23:08:13.636Z'
+sourcePath: _posts/2016-05-27-payment-options-and-pricing.md
 isBasedOnUrl: 'https://squareup.com/store/CabXiLimo'
 keywords: []
 related: []
 author: []
-dateModified: '2016-05-27T22:32:18.328Z'
+dateModified: '2016-05-27T23:08:13.118Z'
 title: 'Payment options and pricing '
 app_links: []
 publisher:
@@ -12,9 +13,8 @@ publisher:
   name: 'CabXi Limo & Taxi'
   favicon: 'https://squareup.com/favicon.ico'
   domain: squareup.com
-description: if you just want to know the pricing for your ride we encourage you to visit or if you want to book and pay for your ride in advance please use our Square store.
-starred: false
-sourcePath: _posts/2016-05-27-payment-options-and-pricing.md
+description: If you just want to know the pricing for your ride we encourage you to visit our Square store or if you want to book and pay for your ride in advance we try our best to make  it as convenient as possible.
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -22,4 +22,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/760814ba-edb3-4cf6-b943-eede763347be.png" /><h1>Payment options and pricing </h1><p>if you just want to know the pricing for your ride we encourage you to visit or if you want to book and pay for your ride in advance please use our Square store.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1c96dfc03d63e3da40889f30473fc68f165848a.png" /><h1>Payment options and pricing </h1><p>If you just want to know the pricing for your ride we encourage you to visit our Square store or if you want to book and pay for your ride in advance we try our best to make it as convenient as possible.</p></article>
