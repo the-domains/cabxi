@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-28T01:34:22.706Z'
+datePublished: '2016-05-28T04:13:31.338Z'
 author: []
-dateModified: '2016-05-28T01:34:20.522Z'
+dateModified: '2016-05-28T04:13:29.093Z'
 title: 'We love having fun '
 description: "This is a taxi from back in the days when tommy guns were used more then forks and Al Capone roamed Chicago. This is one beautiful car but unfortunately it wouldn't fit with our safety standards.   "
-starred: false
 sourcePath: _posts/2016-05-28-we-love-having-fun.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
