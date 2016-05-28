@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://thriftynomads.com/10-budget-travel-destinations-costs/'
 title: '10 Epic Budget Destinations for 2016 (& Their Costs) - Thrifty Nomads'
-datePublished: '2016-05-28T01:57:00.068Z'
-dateModified: '2016-05-28T01:56:47.851Z'
-starred: false
+datePublished: '2016-05-28T04:13:30.924Z'
+dateModified: '2016-05-28T04:13:28.643Z'
 sourcePath: _posts/2016-05-28-10-epic-budget-destinations-for-2016-and-their-costs-thrif.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
