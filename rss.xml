@@ -7,6 +7,20 @@
         <lastBuildDate>Sat, 28 May 2016 04:14:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cabxi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[TaxiCaller is a cloud based taxi dispatch software.]]></title>
+            <description><![CDATA[<article><h1>TaxiCaller is a cloud based taxi dispatch software.</h1><p>All our taxis and smaller size limos use same system for dispatching, in app hail or online reservations. Visit Taxicaller website to make online reservations or to download phone app. Currently CabXi Limo & Taxi is the only company out of 4 in Naperville/Bolingbrook area that accepting in app payments in taxicaller passenger app.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/276b41ae-7d5a-4d83-9dea-eebe328b7f48.png"></article>]]></description>
+            <link>http://www.taxicaller.com/booking.php</link>
+            <guid isPermaLink="false">be8b1d5c-497c-48b2-be08-6f2cdd90477f</guid>
+            <pubDate>Sat, 28 May 2016 04:13:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d8023fd-30f3-425a-a38d-d99c203c83d5.jpg">]]></description>
+            <link>https://thegrid.ai/cabxi/e23acd92-8864-4136-8bc2-a2f367f8a9fb/index.html</link>
+            <guid isPermaLink="false">e23acd92-8864-4136-8bc2-a2f367f8a9fb</guid>
+            <pubDate>Sat, 28 May 2016 04:13:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[We love having fun ]]></title>
             <description><![CDATA[<article><h1>We love having fun </h1><p>This is a taxi from back in the days when tommy guns were used more then forks and Al Capone roamed Chicago. This is one beautiful car but unfortunately it wouldn't fit with our safety standards.   </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b7876fb-3c76-4587-8187-4f407f8bb900.jpg"></article>]]></description>
             <link>https://thegrid.ai/cabxi/we-love-having-fun/index.html</link>
@@ -61,13 +75,6 @@
             <link>https://twitter.com/CabxiTaxi</link>
             <guid isPermaLink="false">af1a29cb-3ab3-43f0-8cc1-6369a6366667</guid>
             <pubDate>Sat, 28 May 2016 04:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TaxiCaller is a cloud based taxi dispatch software.]]></title>
-            <description><![CDATA[<article><h1>TaxiCaller is a cloud based taxi dispatch software.</h1><p>All our taxis and smaller size limos use same system for dispatching, in app hail or online reservations. Visit Taxicaller website to make online reservations or to download phone app. Currently CabXi Limo & Taxi is the only company out of 4 in Naperville/Bolingbrook area that accepting in app payments in taxicaller passenger app.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/276b41ae-7d5a-4d83-9dea-eebe328b7f48.png"></article>]]></description>
-            <link>http://www.taxicaller.com/booking.php</link>
-            <guid isPermaLink="false">be8b1d5c-497c-48b2-be08-6f2cdd90477f</guid>
-            <pubDate>Fri, 27 May 2016 23:28:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
