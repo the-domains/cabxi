@@ -1,11 +1,11 @@
 ---
 description: 'Name CabXi originated from dispatcher interaction with customers. Most of the customers placing calls for Taxi would ask for Cab when dispatcher would say Taxi eventually customer would say CabXi as combination of two words, that said idea for the name CabXi Limo & Taxi was born.'
-dateModified: '2016-05-27T23:08:23.478Z'
-datePublished: '2016-05-27T23:08:23.858Z'
+dateModified: '2016-05-28T02:36:48.712Z'
+datePublished: '2016-05-28T02:36:49.432Z'
 title: 'CabXi Limo & Taxi'
 author: []
 sourcePath: _posts/2016-05-27-cabxi-limo-and-taxi.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
