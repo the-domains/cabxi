@@ -4,7 +4,7 @@
         <description><![CDATA[CabXi Limo &amp; Taxi]]></description>
         <link>https://thegrid.ai/cabxi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 01:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 01:49:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cabxi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Payment options and pricing ]]></title>
@@ -12,6 +12,13 @@
             <link>https://squareup.com/store/CabXiLimo</link>
             <guid isPermaLink="false">d0efe3eb-b06b-4a37-9492-518725dd643e</guid>
             <pubDate>Sat, 28 May 2016 00:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test run ]]></title>
+            <description><![CDATA[<article><h1>Test run </h1><p>testing facebook link </p></article>]]></description>
+            <link>https://www.facebook.com/cabxi</link>
+            <guid isPermaLink="false">68cd1532-2b5a-4ef7-b69c-6aa078b8fee5</guid>
+            <pubDate>Sat, 28 May 2016 01:49:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vacations ]]></title>
