@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-28T01:27:24.286Z'
+datePublished: '2016-05-28T04:13:31.075Z'
 author: []
-dateModified: '2016-05-28T01:26:54.003Z'
+dateModified: '2016-05-28T04:13:28.510Z'
 title: 'Business Travel '
 description: 'At CabXi Limo & Taxi we love our business travelers. And we not just saying this we are willing to prove it, with our business travel discounts you can get free personal trips for you and your family, get a discounted flat rates for sending your monthly itinerary or free upgrades. For more information about discounts email us at cabxiservises@gmail.com or call (630) 492-1110'
-starred: false
 sourcePath: _posts/2016-05-28-business-travel.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
