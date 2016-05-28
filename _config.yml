@@ -1,4 +1,3 @@
-layout_spectrum: 0.5937543998006731
 typography_spectrum: 0.48776750825345516
 color:
   brandStrength: 0.5203470131382346
@@ -11,4 +10,11 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+opengraph:
+  type: ''
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d6ca967-eefb-4380-bbc1-c0635c666c9d.jpg'
+layout_spectrum: 0.5937543998006731
+author:
+  name: 'CabXi '
+  email: cabxiservices@gmail.com
 name: 'cabxi '
