@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-27T23:08:13.636Z'
+datePublished: '2016-05-28T00:32:03.049Z'
 sourcePath: _posts/2016-05-27-payment-options-and-pricing.md
 isBasedOnUrl: 'https://squareup.com/store/CabXiLimo'
 keywords: []
 related: []
 author: []
-dateModified: '2016-05-27T23:08:13.118Z'
+dateModified: '2016-05-28T00:31:23.441Z'
 title: 'Payment options and pricing '
 app_links: []
 publisher:
@@ -22,4 +22,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1c96dfc03d63e3da40889f30473fc68f165848a.png" /><h1>Payment options and pricing </h1><p>If you just want to know the pricing for your ride we encourage you to visit our Square store or if you want to book and pay for your ride in advance we try our best to make it as convenient as possible.</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37ab9619-3151-4eee-ba9e-b8579c8db516.png" /><h1>Payment options and pricing </h1><p>If you just want to know the pricing for your ride we encourage you to visit our Square store or if you want to book and pay for your ride in advance we try our best to make it as convenient as possible.</p></article>
