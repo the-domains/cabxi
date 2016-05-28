@@ -4,7 +4,7 @@
         <description><![CDATA[cabxi ]]></description>
         <link>https://thegrid.ai/cabxi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 02:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 03:36:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cabxi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[VID 20150602 150734]]></title>
@@ -68,13 +68,6 @@
             <link>http://www.taxicaller.com/booking.php</link>
             <guid isPermaLink="false">be8b1d5c-497c-48b2-be08-6f2cdd90477f</guid>
             <pubDate>Fri, 27 May 2016 23:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d8023fd-30f3-425a-a38d-d99c203c83d5.jpg">]]></description>
-            <link>https://thegrid.ai/cabxi/e23acd92-8864-4136-8bc2-a2f367f8a9fb/index.html</link>
-            <guid isPermaLink="false">e23acd92-8864-4136-8bc2-a2f367f8a9fb</guid>
-            <pubDate>Fri, 27 May 2016 21:18:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
