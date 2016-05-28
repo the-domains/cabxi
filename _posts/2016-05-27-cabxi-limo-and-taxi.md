@@ -1,25 +1,15 @@
 ---
+description: 'Name CabXi originated from dispatcher interaction with customers. Most of the customers placing calls for Taxi would ask for Cab when dispatcher would say Taxi eventually customer would say CabXi as combination of two words, that said idea for the name CabXi Limo & Taxi was born.'
+dateModified: '2016-05-28T03:34:55.393Z'
+datePublished: '2016-05-28T03:35:43.461Z'
+title: 'CabXi Limo & Taxi (630)492-1110 (630)392-5181 cabxiservices@gmail.com '
 author: []
-related: []
-publisher:
-  url: 'https://squareup.com'
-  name: 'CabXi Limo & Taxi'
-  favicon: 'https://squareup.com/favicon.ico'
-  domain: squareup.com
-keywords: []
-description: 'Limo & Taxi company providing customers with safe and pleasant rides to and from airports, sporting events, concerts and local transportation.'
-app_links: []
-isBasedOnUrl: 'https://squareup.com/store/CabXiLimo'
-title: 'CabXi Limo & Taxi'
-datePublished: '2016-05-28T03:35:08.203Z'
-dateModified: '2016-05-27T23:03:45.987Z'
 sourcePath: _posts/2016-05-27-cabxi-limo-and-taxi.md
 starred: true
 inFeed: true
 hasPage: false
 inNav: false
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>CabXi Limo &amp; Taxi</h1><p>Limo &amp; Taxi company providing customers with safe and pleasant rides to and from airports, sporting events, concerts and local transportation.</p><img src="https://beanstalk-production-f.squarecdn.com/files/4a0ffb08e204aef111351859ac627516/original.png" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/623bae7a271b4f490763b172e9ee763fb34df742.png" /><h1>CabXi Limo &amp; Taxi (630)492-1110 (630)392-5181 cabxiservices@gmail.com </h1><p>Name CabXi originated from dispatcher interaction with customers. Most of the customers placing calls for Taxi would ask for Cab when dispatcher would say Taxi eventually customer would say CabXi as combination of two words, that said idea for the name CabXi Limo &amp; Taxi was born.</p></article>
