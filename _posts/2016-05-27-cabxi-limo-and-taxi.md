@@ -1,11 +1,11 @@
 ---
 description: Taxi (630)492-1110
-dateModified: '2016-05-28T03:44:08.614Z'
-datePublished: '2016-05-28T03:44:26.998Z'
+dateModified: '2016-05-28T03:48:21.361Z'
+datePublished: '2016-05-28T03:48:21.825Z'
 title: 'CabXi Limo & Taxi'
 author: []
 sourcePath: _posts/2016-05-27-cabxi-limo-and-taxi.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
