@@ -4,7 +4,7 @@
         <description><![CDATA[CabXi Limo &amp; Taxi]]></description>
         <link>https://thegrid.ai/cabxi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 01:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 01:58:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cabxi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Payment options and pricing ]]></title>
@@ -12,6 +12,13 @@
             <link>https://squareup.com/store/CabXiLimo</link>
             <guid isPermaLink="false">d0efe3eb-b06b-4a37-9492-518725dd643e</guid>
             <pubDate>Sat, 28 May 2016 00:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Epic Budget Destinations for 2016 (& Their Costs) - Thrifty Nomads]]></title>
+            <description><![CDATA[<article><h1>10 Epic Budget Destinations for 2016 (& Their Costs) - Thrifty Nomads</h1><p>The notion that expensive equals better is not always true, especially when it comes to travel. Though many developing countries are swiftly growing, there still exists destinations where your dollar will stretch further than most. So if you're looking for cheap places to travel for 2016, look no further.</p><img src="http://thriftynomads.com/wp-content/uploads/2016/01/morocco_fb.jpg"></article>]]></description>
+            <link>http://thriftynomads.com/10-budget-travel-destinations-costs/</link>
+            <guid isPermaLink="false">c486c678-ba4f-46b8-a0d1-d904eed888dd</guid>
+            <pubDate>Sat, 28 May 2016 01:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Test run ]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cabxi/a34edfc5-7ada-4c7b-a0c7-72be7e09ecfd/index.html</link>
             <guid isPermaLink="false">a34edfc5-7ada-4c7b-a0c7-72be7e09ecfd</guid>
             <pubDate>Fri, 27 May 2016 21:18:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VID 20150602 150734]]></title>
-            <description><![CDATA[<article><h1>VID 20150602 150734</h1><p>Video tutorial about the app taxi and limo companies use in Naperville/Bolingbrook</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d5eda3fbbe692e509b8afbc3a62a33c69730e8b.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=A5Dj62nZfnU</link>
-            <guid isPermaLink="false">37cb3df8-6f8a-4a36-bb99-967186fe113c</guid>
-            <pubDate>Fri, 27 May 2016 20:30:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
