@@ -11,7 +11,7 @@ color:
     - '#A7C520'
     - '#493F0B'
 opengraph:
-  type: 'https://www.facebook.com/cabxi/'
+  type: 'https://www.facebook.com/{cabxi}/posts/{post-id}'
   image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d6ca967-eefb-4380-bbc1-c0635c666c9d.jpg'
 layout_spectrum: 0.8136149672791362
 author:
