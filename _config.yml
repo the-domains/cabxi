@@ -1,4 +1,4 @@
-typography_spectrum: 0.48776750825345516
+typography_spectrum: 0.7342731335666031
 color:
   brandStrength: 0.5203470131382346
   lightness: 0.8637761157006025
@@ -14,7 +14,7 @@ opengraph:
   type: 'https://w<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fcabxi%2F&width=450&layout=standard&action=like&show_faces=true&share=true&height=80&appId=208819879154745" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>ww.facebook.com/{cabxi}/posts/{post-id}'
   image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d6ca967-eefb-4380-bbc1-c0635c666c9d.jpg'
   appId: Taxi
-layout_spectrum: 0.8136149672791362
+layout_spectrum: 0.13958191615529358
 author:
   name: 'CabXi '
   email: cabxiservices@gmail.com
