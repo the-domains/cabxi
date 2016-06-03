@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[cabxi ]]></title>
         <description><![CDATA[cabxi ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cabxi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 20:17:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Jun 2016 20:18:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cabxi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Airport service ]]></title>
+            <description><![CDATA[<article><h1>Airport service </h1><p>Our main business is taking our passengers to airports for business trips or vacations. That said we offer variety of options for getting there from regular taxi to party bus in case you have bigger family. To provide you with better service we ask you to try and book your reservations in advance, for early morning pickups you need to book your taxi or town car at least by 9:00pm the day before your trip. For SUV's and stretch limousines we require at least 4-5 day notice a specially during spring, summer, fall and for holidays. Party busses you must book at least 1 week in advance particularly for weekends and holidays. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bb3bc40-720a-41ed-85e0-728e0949b960.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cabxi/airport-service/index.html</link>
+            <guid isPermaLink="false">44396162-9c91-4066-9249-3149c8875143</guid>
+            <pubDate>Fri, 03 Jun 2016 20:18:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stretch Limousine service available  ]]></title>
             <description><![CDATA[<article><h1>Stretch Limousine service available  </h1><p>For pricing and reservations please call: 630-392-5181 or email at cabxiservices@gmail.com </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4f47e61c6c172217a00930881180c8504d119d5.jpg"></article>]]></description>
-            <link>undefinedstretch-limousine-service-available/index.html</link>
+            <link>https://thegrid.ai/cabxi/stretch-limousine-service-available/index.html</link>
             <guid isPermaLink="false">6425692a-5dc2-46e7-b0cf-ed8c7ce48258</guid>
             <pubDate>Fri, 03 Jun 2016 20:17:54 GMT</pubDate>
         </item>
