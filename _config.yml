@@ -20,7 +20,7 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d6ca967-eefb-4380-bbc1-c0635c666c9d.jpg
   appId: Taxi
-layout_spectrum: 0.0257580429315567
+layout_spectrum: 0.4520663709845394
 author:
   name: 'CabXi '
   email: cabxiservices@gmail.com
